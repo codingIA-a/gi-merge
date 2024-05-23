@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    margin: auto;
+}
+
+.alerta{
+    background-color: blueviolet;
+    width: 100px;
+    height: 50px;
+}
